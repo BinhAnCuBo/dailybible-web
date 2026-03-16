@@ -1,14 +1,18 @@
 name: Deploy to GitHub Pages
+
 on:
   push:
     branches: ['main']
+
 permissions:
   contents: read
   pages: write
   id-token: write
+
 concurrency:
   group: 'pages'
   cancel-in-progress: true
+
 jobs:
   deploy:
     environment:
@@ -25,6 +29,8 @@ jobs:
           cache: 'npm'
       - name: Install dependencies
         run: npm install
+      - name: Fix permissions for Windows
+        run: chmod -R +x node_modules/.bin
       - name: Build
         run: npm run build
       - name: Setup Pages
