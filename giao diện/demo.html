@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <title>Lời Chúa Mỗi Ngày</title>
+    <style>
+        * { box-sizing: border-box; }
+        
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: white;
+            overflow: hidden; /* Giữ trang cố định trên điện thoại */
+        }
+
+        /* Tối ưu Background để không che mặt */
+        .bg-container {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: url('backgound.png'); 
+            background-size: cover;
+            /* Căn chỉnh ảnh: center (ngang) và 10% (dọc) để lấy phần mặt các Thánh tốt hơn */
+            background-position: center 10%; 
+            background-repeat: no-repeat;
+            z-index: -1;
+        }
+
+        .main-content {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            height: 100vh;
+            padding: 15px; /* Giảm padding để tiết kiệm diện tích */
+            text-align: center;
+        }
+
+        /* Làm khung thông tin nhỏ gọn và đẩy lên sát trên đầu */
+        .info-card {
+            background: rgba(255, 255, 255, 0.1); /* Độ trong suốt cao hơn */
+            backdrop-filter: blur(5px);
+            -webkit-backdrop-filter: blur(5px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            border-radius: 15px;
+            padding: 10px;
+            margin-top: env(safe-area-inset-top); /* Tránh tai thỏ iPhone */
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+        }
+
+        .info-card h2 { 
+            color: #ffd700; 
+            margin: 5px 0; 
+            font-size: 1.1rem; 
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.8);
+        }
+        
+        .info-card p, .info-card div { 
+            font-size: 0.85rem; 
+            margin: 3px 0;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.8);
+        }
+
+        .vestment-dot {
+            display: inline-block;
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            border: 1px solid white;
+            margin-left: 5px;
+            vertical-align: middle;
+        }
+
+        /* Nút nhận Lời Chúa ở sát dưới cùng */
+        .btn-receive {
+            background: linear-gradient(135deg, #d4af37 0%, #f1c40f 100%);
+            color: #1a1a1a;
+            border: none;
+            padding: 15px;
+            border-radius: 30px;
+            font-weight: bold;
+            font-size: 1rem;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.5);
+            cursor: pointer;
+            width: 100%;
+            max-width: 280px;
+            margin: 0 auto 20px auto;
+        }
+
+        /* Modal hiển thị Lời Chúa */
+        #word-modal {
+            display: none;
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            background: rgba(255, 255, 255, 0.98);
+            color: #333;
+            padding: 25px;
+            border-radius: 25px 25px 0 0;
+            box-shadow: 0 -10px 30px rgba(0,0,0,0.5);
+            z-index: 100;
+            animation: slideUp 0.4s ease-out;
+        }
+
+        @keyframes slideUp {
+            from { transform: translateY(100%); }
+            to { transform: translateY(0); }
+        }
+
+        .verse-text { font-size: 1.1rem; font-style: italic; color: #b22222; margin-bottom: 10px; }
+        .verse-source { font-weight: bold; color: #666; margin-bottom: 15px; display: block; font-size: 0.9rem; }
+        .verse-explain { font-size: 0.95rem; line-height: 1.5; border-top: 1px solid #eee; padding-top: 10px; }
+        .close-btn { margin-top: 15px; background: none; border: none; color: #d4af37; font-weight: bold; }
+
+    </style>
+</head>
+<body>
+
+    <div class="bg-container"></div>
+
+    <div class="main-content">
+        <div class="info-card">
+            <div id="current-date">--/--/----</div>
+            <h2 id="feast-name">Tên Ngày Lễ</h2>
+            <div id="feast-level">Cấp bậc: --</div>
+            <div>Màu áo: <span id="color-name">--</span><span id="color-circle" class="vestment-dot"></span></div>
+        </div>
+
+        <button class="btn-receive" onclick="openWord()">NHẬN LỜI CHÚA HÔM NAY</button>
+    </div>
+
+    <div id="word-modal">
+        <div id="v-content" class="verse-text">"Câu Kinh Thánh"</div>
+        <div id="v-ref" class="verse-source">Nguồn trích</div>
+        <div id="v-meaning" class="verse-explain">Giải thích...</div>
+        <button class="close-btn" onclick="closeWord()">ĐÓNG</button>
+    </div>
+
+    <script>
+        const today = new Date();
+        const dateOptions = { weekday: 'long', day: 'numeric', month: 'numeric', year: 'numeric' };
+        document.getElementById('current-date').innerText = today.toLocaleDateString('vi-VN', dateOptions);
+
+        // Thông tin Phụng vụ
+        const liturgyInfo = {
+            title: "Thứ Bảy Tuần II Mùa Chay",
+            level: "Lễ Nhớ",
+            colorText: "Tím",
+            colorHex: "#800080"
+        };
+
+        document.getElementById('feast-name').innerText = liturgyInfo.title;
+        document.getElementById('feast-level').innerText = "Cấp bậc: " + liturgyInfo.level;
+        document.getElementById('color-name').innerText = liturgyInfo.colorText;
+        document.getElementById('color-circle').style.backgroundColor = liturgyInfo.colorHex;
+
+        const bibleData = [
+            {
+                q: "Anh em hãy yêu thương nhau như Thầy đã yêu thương anh em.",
+                r: "Ga 15, 12",
+                m: "Chúa mời gọi chúng ta sống bác ái, hy sinh và quan tâm đến những người xung quanh theo gương của Người."
+            }
+        ];
+
+        function openWord() {
+            const item = bibleData[Math.floor(Math.random() * bibleData.length)];
+            document.getElementById('v-content').innerText = `"${item.q}"`;
+            document.getElementById('v-ref').innerText = item.r;
+            document.getElementById('v-meaning').innerText = item.m;
+            document.getElementById('word-modal').style.display = 'block';
+        }
+
+        function closeWord() {
+            document.getElementById('word-modal').style.display = 'none';
+        }
+    </script>
+</body>
+</html>

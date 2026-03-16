@@ -1,0 +1,2550 @@
+[
+    {
+        "date":"2026-01-01",
+        "year":2026,
+        "name":"Thánh Ma-ri-a, Ðức Mẹ Chúa Trời",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-01-02",
+        "year":2026,
+        "name":"Thánh Basiliô Cả và thánh Grêgôriô Nazianzênô, giám mục, tiến sĩ Hội Thánh",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-01-03",
+        "year":2026,
+        "name":"Thứ Sáu trước Lễ Hiển Linh - Kính Danh rất thánh Chúa Giê-su. Chiều: Lễ vọng Chúa Hiển Linh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-01-04",
+        "year":2026,
+        "name":"Chúa Hiển Linh",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-01-05",
+        "year":2026,
+        "name":"Thứ Hai sau Lễ Hiển Linh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-01-06",
+        "year":2026,
+        "name":"Thứ Ba sau Lễ Hiển Linh - Thánh Rây-mun-đô Pê-nha-pho, linh mục",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-01-07",
+        "year":2026,
+        "name":"Thánh Rây-mun-đô Pê-nha-pho, linh mục",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-01-08",
+        "year":2026,
+        "name":"Thứ Năm sau Lễ Hiển Linh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-01-09",
+        "year":2026,
+        "name":"Thứ Sáu sau Lễ Hiển Linh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-01-10",
+        "year":2026,
+        "name":"Thứ Bảy sau Lễ Hiển Linh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-01-11",
+        "year":2026,
+        "name":"Chúa Giê-su Chịu Phép Rửa",
+        "feast_type":"Lễ kính",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-01-12",
+        "year":2026,
+        "name":"Thứ Hai Tuần I Thường niên",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-01-13",
+        "year":2026,
+        "name":"Thánh Hi-la-ri-ô, giám mục, tiến sĩ Hội Thánh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-01-14",
+        "year":2026,
+        "name":"Thứ Tư Tuần I Thường niên",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-01-15",
+        "year":2026,
+        "name":"Thứ Năm Tuần I Thường niên",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-01-16",
+        "year":2026,
+        "name":"Thứ Sáu Tuần I Thường niên",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-01-17",
+        "year":2026,
+        "name":"Thánh An-tôn, viện phụ",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-01-18",
+        "year":2026,
+        "name":"Chúa nhật II Thường niên. Thánh vịnh tuần II",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-01-19",
+        "year":2026,
+        "name":"Thứ Hai trong tuần thứ Hai Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-01-20",
+        "year":2026,
+        "name":"Thánh Fabianô, Giáo hoàng, Tử đạo (Đ). Thánh Sêbastianô, Tử đạo (Đ)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Đỏ"
+    },
+    {
+        "date":"2026-01-21",
+        "year":2026,
+        "name":"Thánh Anee, Trinh nữ, Tử đạo",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Đỏ"
+    },
+    {
+        "date":"2026-01-22",
+        "year":2026,
+        "name":"Thánh Vinh Sơn, phó tế, Tử đạo (Đ)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-01-23",
+        "year":2026,
+        "name":"Thứ Sáu trong tuần thứ Hai Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-01-24",
+        "year":2026,
+        "name":"Thánh Phan-xi-cô Sa-lê-si-ô, Giám mục, Tiến sĩ Hội Thánh",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-01-25",
+        "year":2026,
+        "name":"Chúa nhật III Thường niên. Thánh vịnh tuần III",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-01-26",
+        "year":2026,
+        "name":"Thánh Ti-mô-thê-ô và Thánh Ti-tô, Giám mục",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-01-27",
+        "year":2026,
+        "name":"Thánh An-gê-la Mê-ri-ci, Trinh nữ (Tr)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-01-28",
+        "year":2026,
+        "name":"Thánh Tô-ma A-qui-nô, Linh mục, Tiến sĩ Hội Thánh",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-01-29",
+        "year":2026,
+        "name":"Thứ Năm trong tuần thứ Ba Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-01-30",
+        "year":2026,
+        "name":"Thứ Sáu trong tuần thứ Ba Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-01-31",
+        "year":2026,
+        "name":"Thánh Gio-an Bos-co, Linh mục",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-02-01",
+        "year":2026,
+        "name":"Chúa nhật IV Thường niên. Thánh vịnh tần IV",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-02-02",
+        "year":2026,
+        "name":"Lễ dâng Chúa Giê-su trong Đền thánh",
+        "feast_type":"Lễ kính",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-02-03",
+        "year":2026,
+        "name":"Thánh Blasiô, Giám mục, Tử đạo (Đ). Thánh Ansgariô, Giám mục (Tr)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-02-04",
+        "year":2026,
+        "name":"Thứ Tư trong tuần thứ Tư Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-02-05",
+        "year":2026,
+        "name":"Thứ năm đầu tháng. Thánh Agatha, Trinh nữ, Tử đạo",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Đỏ"
+    },
+    {
+        "date":"2026-02-06",
+        "year":2026,
+        "name":"Thứ sáu đầu tháng. Thánh Phaolô Miki và các bạn, tử đạo",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Đỏ"
+    },
+    {
+        "date":"2026-02-07",
+        "year":2026,
+        "name":"Thứ bảy đầu tháng",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-02-08",
+        "year":2026,
+        "name":"Chúa nhật V Thường niên. Thánh vịnh tuần I",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-02-09",
+        "year":2026,
+        "name":"Thứ Hai trong tuần thứ Năm Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-02-10",
+        "year":2026,
+        "name":"Thánh Scholastica, trinh nữ.",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-02-11",
+        "year":2026,
+        "name":"Đức Mẹ Lộ Đức (Tr). Ngày Quốc Tế Bệnh Nhân. Thánh Tôma Ngô Túc Khuông, linh mục, tử đạo",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-02-12",
+        "year":2026,
+        "name":"Thứ Năm trong tuần thứ Năm Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-02-13",
+        "year":2026,
+        "name":"Thứ Sáu trong tuần thứ Năm Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-02-14",
+        "year":2026,
+        "name":"Thánh Cyrillô, đan sĩ và thánh Mêthôđiô, giám mục",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-02-15",
+        "year":2026,
+        "name":"CHÚA NHẬT VI THƯỜNG NIÊN. Thánh Vịnh Tuần II",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-02-16",
+        "year":2026,
+        "name":"Thứ Hai trong tuần thứ Sáu Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-02-17",
+        "year":2026,
+        "name":"Mồng một Tết Bính Ngọ. Cầu bình an cho năm mới. Bảy Thánh lập Dòng Tôi Tới Đức Trinh Nữ Maria (Tr)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-02-18",
+        "year":2026,
+        "name":"Kính nhớ Tổ tiên, ông bà, cha mẹ",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-02-19",
+        "year":2026,
+        "name":"Thánh hóa công ăn việc làm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-02-20",
+        "year":2026,
+        "name":"Lễ Tro",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-02-21",
+        "year":2026,
+        "name":"Thánh Phêrô Đamianô, giám mục, tiến sĩ Hội Thánh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-02-22",
+        "year":2026,
+        "name":"Chúa nhật I Mùa Chay. Thánh vịnh tuần I",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-02-23",
+        "year":2026,
+        "name":"Thánh Pôlycarpô, giám mục, tử đạo",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-02-24",
+        "year":2026,
+        "name":"Thứ Ba trong tuần thứ Nhất Mùa Chay",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-02-25",
+        "year":2026,
+        "name":"Thứ Tư trong tuần thứ Nhất Mùa Chay",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-02-26",
+        "year":2026,
+        "name":"Thứ Năm trong tuần thứ Nhất Mùa Chay",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-02-27",
+        "year":2026,
+        "name":"Thánh Grêgôriô Naracensiô, viện phụ, tiến sĩ Hội Thánh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-02-28",
+        "year":2026,
+        "name":"Thứ Bảy trong tuần thứ Nhất Mùa Chay",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-03-01",
+        "year":2026,
+        "name":"CHÚA NHẬT II MÙA CHAY. Thánh vịnh tuần II",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-03-02",
+        "year":2026,
+        "name":"Thứ Hai trong tuần thứ Hai Mùa Chay",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-03-03",
+        "year":2026,
+        "name":"Thứ Ba trong tuần thứ Hai Mùa Chay",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-03-04",
+        "year":2026,
+        "name":"Thánh Casimirô",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-03-05",
+        "year":2026,
+        "name":"Thứ năm đầu tháng",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-03-06",
+        "year":2026,
+        "name":"Thứ sáu đầu tháng",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-03-07",
+        "year":2026,
+        "name":"Thứ bảy đầu tháng. Thánh nữ Perpêtua và thánh nữ Fêlicita, tử đạo",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-03-08",
+        "year":2026,
+        "name":"CHÚA NHẬT III MÙA CHAY. Thánh vịnh tuần III",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-03-09",
+        "year":2026,
+        "name":"Thánh Phanxica Rôma, nữ tu",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-03-10",
+        "year":2026,
+        "name":"Thứ Ba trong tuần thứ Ba Mùa Chay",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-03-11",
+        "year":2026,
+        "name":"Thứ Tư trong tuần thứ Ba Mùa Chay",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-03-12",
+        "year":2026,
+        "name":"Thứ Năm trong tuần thứ Ba Mùa Chay",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-03-13",
+        "year":2026,
+        "name":"Thứ Sáu trong tuần thứ Ba Mùa Chay",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-03-14",
+        "year":2026,
+        "name":"Thứ Bảy trong tuần thứ Ba Mùa Chay",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-03-15",
+        "year":2026,
+        "name":"CHÚA NHẬT IV MÙA CHAY. Thánh vịnh tuần IV",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-03-16",
+        "year":2026,
+        "name":"Thứ Hai trong tuần thứ Tư Mùa Chay",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-03-17",
+        "year":2026,
+        "name":"Thánh Patriciô, giám mục",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-03-18",
+        "year":2026,
+        "name":"Thánh Cyrillô Giêrusalem, giám mục, tiến sĩ Hội Thánh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-03-19",
+        "year":2026,
+        "name":"THÁNH GIUSE, BẠN TRĂM NĂM ĐỨC MARIA. Bổn mạng Hội Thánh hoàn vũ, Hội Thánh Việt Nam",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-03-20",
+        "year":2026,
+        "name":"Thứ Sáu trong tuần thứ Tư Mùa Chay",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-03-21",
+        "year":2026,
+        "name":"Thứ Bảy trong tuần thứ Tư Mùa Chay",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-03-22",
+        "year":2026,
+        "name":"Chúa nhật V Mùa Chay. Thánh vịnh tuần I",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-03-23",
+        "year":2026,
+        "name":"Thánh Turibiô Môgrôvêjô, Giám mục",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-03-24",
+        "year":2026,
+        "name":"Thứ Ba trong tuần thứ Năm Mùa Chay",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-03-25",
+        "year":2026,
+        "name":"LỄ TRUYỀN TIN",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-03-26",
+        "year":2026,
+        "name":"Thứ Năm trong tuần thứ Năm Mùa Chay",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-03-27",
+        "year":2026,
+        "name":"Thứ Sáu trong tuần thứ Năm Mùa Chay",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-03-28",
+        "year":2026,
+        "name":"Thứ Bảy trong tuần thứ Năm Mùa Chay",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-03-29",
+        "year":2026,
+        "name":"Chúa nhật Lễ lá. Tưởng niệm cuộc Thương khó của Chúa. Thánh vịnh tuần II",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Đỏ"
+    },
+    {
+        "date":"2026-03-30",
+        "year":2026,
+        "name":"Thứ hai Tuần Thánh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-03-31",
+        "year":2026,
+        "name":"Thứ ba Tuần Thánh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-04-01",
+        "year":2026,
+        "name":"Thứ Tư Tuần Thánh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-04-02",
+        "year":2026,
+        "name":"Thứ Năm Tuần Thánh. Thánh lễ sáng: Thánh lễ làm phép dầu (Tr). Thánh lễ chiều: Thánh lễ Tiệc ly (Tr)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-04-03",
+        "year":2026,
+        "name":"Thứ Sáu Tuần Thánh. Tưởng niệm Cuộc Thương khó của Chúa",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Đỏ"
+    },
+    {
+        "date":"2026-04-04",
+        "year":2026,
+        "name":"Thứ Bảy Tuần Thánh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-04-05",
+        "year":2026,
+        "name":"CHÚA NHẬT PHỤC SINH. MỪNG CHÚA GIÊSU SỐNG LẠI",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-04-06",
+        "year":2026,
+        "name":"Thứ hai trong Tuần bát nhật Phục sinh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-04-07",
+        "year":2026,
+        "name":"Thứ ba trong Tuần bát nhật Phục sinh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-04-08",
+        "year":2026,
+        "name":"Thứ tư trong Tuần bát nhật Phục sinh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-04-09",
+        "year":2026,
+        "name":"Thứ năm trong Tuần bát nhật Phục sinh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-04-10",
+        "year":2026,
+        "name":"Thứ sáu trong Tuần bát nhật Phục sinh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-04-11",
+        "year":2026,
+        "name":"Thứ bảy trong Tuần bát nhật Phục sinh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-04-12",
+        "year":2026,
+        "name":"CHÚA NHẬT II PHỤC SINH. CHÚA NHẬT VỀ LÒNG THƯƠNG XÓT CỦA THIÊN CHÚA",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-04-13",
+        "year":2026,
+        "name":"Thánh vịnh tuần II. Thánh Martinô I, Giáo hoàng, Tử đạo (Đ)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-04-14",
+        "year":2026,
+        "name":"Thứ Ba trong tuần thứ Hai Mùa Phục Sinh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-04-15",
+        "year":2026,
+        "name":"Thứ Tư trong tuần thứ Hai Mùa Phục Sinh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-04-16",
+        "year":2026,
+        "name":"Thứ Năm trong tuần thứ Hai Mùa Phục Sinh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-04-17",
+        "year":2026,
+        "name":"Thứ Sáu trong tuần thứ Hai Mùa Phục Sinh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-04-18",
+        "year":2026,
+        "name":"Thứ Bảy trong tuần thứ Hai Mùa Phục Sinh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-04-19",
+        "year":2026,
+        "name":"CHÚA NHẬT III PHỤC SINH. Thánh Vịnh Tuần III",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-04-20",
+        "year":2026,
+        "name":"Thứ Hai trong tuần thứ Ba Mùa Phục Sinh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-04-21",
+        "year":2026,
+        "name":"Thánh Anselmô, Giám mục, Tiến sĩ Hội Thánh (Tr)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-04-22",
+        "year":2026,
+        "name":"Thứ Tư trong tuần thứ Ba Mùa Phục Sinh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-04-23",
+        "year":2026,
+        "name":"Thánh Giorgiô, Tử đạo (Đ). Thánh Ađalbertô, Giám mục, Tử đạo (Đ)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-04-24",
+        "year":2026,
+        "name":"Thánh Fiđêlê Sigmaringen, Linh mục, Tử đạo (Đ)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-04-25",
+        "year":2026,
+        "name":"Thánh Marcô, tác giả sách Tin Mừng",
+        "feast_type":"Lễ kính",
+        "liturgical_color":"Đỏ"
+    },
+    {
+        "date":"2026-04-26",
+        "year":2026,
+        "name":"Chúa nhật IV Phục sinh. Thánh vịnh Tuần IV. Chúa nhật Chúa Chiên lành",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-04-27",
+        "year":2026,
+        "name":"Thứ Hai trong tuần thứ Tư Mùa Phục Sinh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-04-28",
+        "year":2026,
+        "name":"Thánh Phêrô Chanel, linh mục, tử đạo (Đ). Thánh Luy Grignion Montfort, linh mục (Tr)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-04-29",
+        "year":2026,
+        "name":"Thánh Catarina Siêna, trinh nữ, tiến sĩ Hội Thánh",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-04-30",
+        "year":2026,
+        "name":"Thánh Piô V, Giáo hoàng",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-05-01",
+        "year":2026,
+        "name":"Thứ sáu đầu tháng. Thánh Giuse Thợ (Tr)",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-05-02",
+        "year":2026,
+        "name":"Thứ bảy đầu tháng. Thánh Athanasiô, giám mục, tiến sĩ Hội Thánh.",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-05-03",
+        "year":2026,
+        "name":"CHÚA NHẬT V PHỤC SINH. Thánh Vịnh Tuần I",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-05-04",
+        "year":2026,
+        "name":"Thứ Hai trong tuần thứ Năm Mùa Phục Sinh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-05-05",
+        "year":2026,
+        "name":"Thứ Ba trong tuần thứ Năm Mùa Phục Sinh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-05-06",
+        "year":2026,
+        "name":"Thứ Tư trong tuần thứ Năm Mùa Phục Sinh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-05-07",
+        "year":2026,
+        "name":"Thứ năm đầu tháng",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-05-08",
+        "year":2026,
+        "name":"Kỷ niệm 1 năm ngày Đức Lêô XIV được bầu làm Giáo hoàng",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-05-09",
+        "year":2026,
+        "name":"Thứ Bảy trong tuần thứ Năm Mùa Phục Sinh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-05-10",
+        "year":2026,
+        "name":"CHÚA NHẬT VI PHỤC SINH. Thánh Vịnh Tuần II",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-05-11",
+        "year":2026,
+        "name":"Thứ Hai trong tuần thứ Sáu Mùa Phục Sinh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-05-12",
+        "year":2026,
+        "name":"Thánh Nêrêô và thánh Achilêô, tử đạo (Đ). Thánh Pancratiô, tử đạo (Đ)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-05-13",
+        "year":2026,
+        "name":"Đức Mẹ Fatima",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-05-14",
+        "year":2026,
+        "name":"THÁNH MATTHIA, TÔNG ĐỒ",
+        "feast_type":"Lễ kính",
+        "liturgical_color":"Đỏ"
+    },
+    {
+        "date":"2026-05-15",
+        "year":2026,
+        "name":"Thứ Sáu trong tuần thứ Sáu Mùa Phục Sinh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-05-16",
+        "year":2026,
+        "name":"Chiều: Lễ vọng Chúa Thăng thiên (Tr)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-05-17",
+        "year":2026,
+        "name":"Chúa nhật VII Phục sinh. Chúa thăng thiên",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-05-18",
+        "year":2026,
+        "name":"Thánh vịnh tuần III. Thánh Gioan I, Giáo hoàng, Tử đạo (Đ)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-05-19",
+        "year":2026,
+        "name":"Thứ Ba trong tuần thứ Bảy Mùa Phục Sinh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-05-20",
+        "year":2026,
+        "name":"Thánh Bernarđinô Siêna, linh mục (Tr)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-05-21",
+        "year":2026,
+        "name":"Thánh Christôphôrô Magalla-nes, linh mục và các bạn, tử đạo",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-05-22",
+        "year":2026,
+        "name":"Thánh Rita Cascia, nữ tu. Thánh Micae Hồ Đình Hy, quan thái bộc, tử đạo († 1857); thánh Laurensô Phạm Viết Ngôn, giáo dân, tử đạo († 1862)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-05-23",
+        "year":2026,
+        "name":"Chiều: Lễ vọng Chúa Thánh thần hiện xuống (Đ)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-05-24",
+        "year":2026,
+        "name":"Chúa Thánh thần hiện xuống",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-05-25",
+        "year":2026,
+        "name":"Thánh vịnh tuần IV. Đức Trinh nữ Maria, Mẹ Hội Thánh",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-05-26",
+        "year":2026,
+        "name":"Thánh Philipphê Nêri, linh mục.",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-05-27",
+        "year":2026,
+        "name":"Thánh Augustinô Cantuariô, giám mục",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-05-28",
+        "year":2026,
+        "name":"Thứ Năm trong tuần thứ Tám Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-05-29",
+        "year":2026,
+        "name":"Thánh Phaolô VI, Giáo hoàng (Tr)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-05-30",
+        "year":2026,
+        "name":"Thứ Bảy trong tuần thứ Tám Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-05-31",
+        "year":2026,
+        "name":"Chúa nhật IX thường niên. Chúa Ba ngôi",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-06-01",
+        "year":2026,
+        "name":"Thánh vịnh tuần I. Thánh Justinô, Tử đạo",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Đỏ"
+    },
+    {
+        "date":"2026-06-02",
+        "year":2026,
+        "name":"Thánh Marcellinô và thánh Phêrô, tử đạo (Đ)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-06-03",
+        "year":2026,
+        "name":"Thánh Carôlô Lwanga và các bạn, tử đạo.",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Đỏ"
+    },
+    {
+        "date":"2026-06-04",
+        "year":2026,
+        "name":"Thứ năm đầu tháng",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-06-05",
+        "year":2026,
+        "name":"Thứ sáu đầu tháng. Thánh Bônifatiô, giám mục, tử đạo",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Đỏ"
+    },
+    {
+        "date":"2026-06-06",
+        "year":2026,
+        "name":"Thứ bảy đầu tháng. Thánh Norbertô, giám mục (Tr)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-06-07",
+        "year":2026,
+        "name":"Chúa nhật X thường niên. Mình và Máu Thánh Chúa Ki-tô",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-06-08",
+        "year":2026,
+        "name":"Thánh vịnh tuần II",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-06-09",
+        "year":2026,
+        "name":"Thánh Ephrem, Phó tế, Tiến sĩ Hội Thánh (Tr)",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-06-10",
+        "year":2026,
+        "name":"Thứ Tư trong tuần thứ Mười Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-06-11",
+        "year":2026,
+        "name":"THÁNH BARNABA, TÔNG ĐỒ",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Đỏ"
+    },
+    {
+        "date":"2026-06-12",
+        "year":2026,
+        "name":"Thánh tâm Chúa Giêsu",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-06-13",
+        "year":2026,
+        "name":"Trái tim Vô Nhiễm Đức Mẹ",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-06-14",
+        "year":2026,
+        "name":"Chúa nhật XI thường niên. Thánh vịnh tuần III",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-06-15",
+        "year":2026,
+        "name":"Thứ Hai trong tuần thứ Mười Một Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-06-16",
+        "year":2026,
+        "name":"Thứ Ba trong tuần thứ Mười Một Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-06-17",
+        "year":2026,
+        "name":"Thứ Tư trong tuần thứ Mười Một Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-06-18",
+        "year":2026,
+        "name":"Thứ Năm trong tuần thứ Mười Một Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-06-19",
+        "year":2026,
+        "name":"Thánh Rômualđô, viện phụ (Tr)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-06-20",
+        "year":2026,
+        "name":"Thứ Bảy trong tuần thứ Mười Một Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-06-21",
+        "year":2026,
+        "name":"Chúa nhật XII thường niên. Thánh vịnh tuần IV",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-06-22",
+        "year":2026,
+        "name":"Thánh Paulinô, giám mục Nôla (Tr); thánh Gioan Fisher, giám mục và thánh Tôma More, tử đạo (Đ)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-06-23",
+        "year":2026,
+        "name":"Ban chiều: LỄ VỌNG SINH NHẬT THÁNH GIOAN TẨY GIẢ (Tr)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-06-24",
+        "year":2026,
+        "name":"SINH NHẬT THÁNH GIOAN TẨY GIẢ",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-06-25",
+        "year":2026,
+        "name":"Thứ Năm trong tuần thứ Mười Hai Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-06-26",
+        "year":2026,
+        "name":"Thứ Sáu trong tuần thứ Mười Hai Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-06-27",
+        "year":2026,
+        "name":"Thánh Cyrillô Alexandria, tiến sĩ Hội Thánh (Tr)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-06-28",
+        "year":2026,
+        "name":"Chúa nhật XIII thường niên. Thánh vịnh tuần I. Ban chiều: LỄ VỌNG THÁNH PHÊRÔ VÀ THÁNH PHAOLÔ, TÔNG ĐỒ (Đ)",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-06-29",
+        "year":2026,
+        "name":"THÁNH PHÊRÔ VÀ THÁNH PHAOLÔ, TÔNG ĐỒ",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Đỏ"
+    },
+    {
+        "date":"2026-06-30",
+        "year":2026,
+        "name":"Các thánh tử đạo tiên khởi của giáo đoàn Rôma (Đ)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-07-01",
+        "year":2026,
+        "name":"Thứ Tư trong tuần thứ Mười Ba Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-07-02",
+        "year":2026,
+        "name":"Thứ năm đầu tháng",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-07-03",
+        "year":2026,
+        "name":"THÁNH TÔMA, TÔNG ĐỒ",
+        "feast_type":"Lễ kính",
+        "liturgical_color":"Đỏ"
+    },
+    {
+        "date":"2026-07-04",
+        "year":2026,
+        "name":"Thánh nữ Êlisabeth Bồ Đào Nha (Tr)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-07-05",
+        "year":2026,
+        "name":"Chúa nhật XIV thường niên. Thánh vịnh tuần II",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-07-06",
+        "year":2026,
+        "name":"thánh Maria Gôretti, trinh nữ, tử đạo (Đ)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-07-07",
+        "year":2026,
+        "name":"Thứ Ba trong tuần thứ Mười Bốn Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-07-08",
+        "year":2026,
+        "name":"Thứ Tư trong tuần thứ Mười Bốn Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-07-09",
+        "year":2026,
+        "name":"Thánh Augustinô Zhao Rong, linh mục và các bạn, tử đạo (Đ)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-07-10",
+        "year":2026,
+        "name":"Thứ Sáu trong tuần thứ Mười Bốn Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-07-11",
+        "year":2026,
+        "name":"Thánh Bênêđictô, viện phụ",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-07-12",
+        "year":2026,
+        "name":"Chúa nhật XV thường niên. Thánh vịnh tuần III",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-07-13",
+        "year":2026,
+        "name":"Thánh Henricô (Tr)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-07-14",
+        "year":2026,
+        "name":"Thánh Camillô Lellis, linh mục (Tr)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-07-15",
+        "year":2026,
+        "name":"Thánh Bônaventura, giám mục, tiến sĩ Hội Thánh",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-07-16",
+        "year":2026,
+        "name":"Đức Mẹ núi Carmêlô (Tr)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-07-17",
+        "year":2026,
+        "name":"Thứ Sáu trong tuần thứ Mười Lăm Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-07-18",
+        "year":2026,
+        "name":"Thứ Bảy trong tuần thứ Mười Lăm Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-07-19",
+        "year":2026,
+        "name":"Chúa nhật XVI thường niên. Thánh vịnh tuần IV",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-07-20",
+        "year":2026,
+        "name":"Thánh Apôllinarê, Giám mục, Tử đạo (Đ)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-07-21",
+        "year":2026,
+        "name":"Thánh Laurensô Brinđisi, linh mục, Tiến sĩ Hội Thánh (Tr)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-07-22",
+        "year":2026,
+        "name":"THÁNH NỮ MARIA MAGĐA-LÊNA",
+        "feast_type":"Lễ kính",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-07-23",
+        "year":2026,
+        "name":"Thánh Birgitta, nữ tu",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-07-24",
+        "year":2026,
+        "name":"Thánh Sarbêliô Makhluf, linh mục. Thánh José Fernandez Hiền, linh mục, tử đạo († 1838)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-07-25",
+        "year":2026,
+        "name":"THÁNH GIACÔBÊ, TÔNG ĐỒ",
+        "feast_type":"Lễ kính",
+        "liturgical_color":"Đỏ"
+    },
+    {
+        "date":"2026-07-26",
+        "year":2026,
+        "name":"Chúa nhật XVII thường niên. Thánh vịnh tuần I",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-07-27",
+        "year":2026,
+        "name":"Thứ Hai trong tuần thứ Mười Bảy Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-07-28",
+        "year":2026,
+        "name":"Thứ Ba trong tuần thứ Mười Bảy Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-07-29",
+        "year":2026,
+        "name":"Thánh nữ Martha, Maria và Ladarô",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-07-30",
+        "year":2026,
+        "name":"Thánh Phêrô Kim Ngôn, giám mục, tiến sĩ Hội Thánh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-07-31",
+        "year":2026,
+        "name":"Thánh Ignatiô Loyôla, linh mục",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-08-01",
+        "year":2026,
+        "name":"Thứ bảy đầu tháng. Thánh Alphongsô Maria Ligôri, giám mục, tiến sĩ Hội Thánh",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-08-02",
+        "year":2026,
+        "name":"CHÚA NHẬT XVIII THƯỜNG NIÊN. Thánh vịnh tuần II",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-08-03",
+        "year":2026,
+        "name":"Thứ Hai trong tuần thứ Mười Tám Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-08-04",
+        "year":2026,
+        "name":"Thánh Gioan Maria Vianney, linh mục",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-08-05",
+        "year":2026,
+        "name":"Cung hiến thánh đường Đức Maria",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-08-06",
+        "year":2026,
+        "name":"CHÚA HIỂN DUNG",
+        "feast_type":"Lễ kính",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-08-07",
+        "year":2026,
+        "name":"Thánh Xystô II, giáo hoàng và các bạn, tử đạo. Thánh Cajêtanô, linh mục",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-08-08",
+        "year":2026,
+        "name":"Thánh Đa Minh, linh mục",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-08-09",
+        "year":2026,
+        "name":"CHÚA NHẬT XIX THƯỜNG NIÊN. Thánh vịnh tuần III",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-08-10",
+        "year":2026,
+        "name":"Thánh Laurensô, Phó tế, Tử đạo",
+        "feast_type":"Lễ kính",
+        "liturgical_color":"Đỏ"
+    },
+    {
+        "date":"2026-08-11",
+        "year":2026,
+        "name":"Thánh Clara, trinh nữ",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-08-12",
+        "year":2026,
+        "name":"Thánh Joanna Phanxica Chantal, nữ tu. Thánh Giacôbê Đỗ Mai Năm, linh mục; thánh Antôn Nguyễn Tiến Đích, chánh trương; thánh Micae Nguyễn Huy Mỹ, lý trưởng, tử đạo († 1838)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-08-13",
+        "year":2026,
+        "name":"Thánh Pontianô, giáo hoàng và thánh Hippôlytô, linh mục, tử đạo",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-08-14",
+        "year":2026,
+        "name":"Thánh Maximilianô Maria Kolbê, linh mục, tử đạo. Chiều: LỄ VỌNG ĐỨC MẸ LÊN TRỜI (Tr)",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Đỏ"
+    },
+    {
+        "date":"2026-08-15",
+        "year":2026,
+        "name":"ĐỨC MẸ LÊN TRỜI",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-08-16",
+        "year":2026,
+        "name":"CHÚA NHẬT XX THƯỜNG NIÊN. Thánh vịnh tuần IV",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-08-17",
+        "year":2026,
+        "name":"Thứ Hai trong tuần thứ Hai Mươi Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-08-18",
+        "year":2026,
+        "name":"Thứ Ba trong tuần thứ Hai Mươi Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-08-19",
+        "year":2026,
+        "name":"Thánh Gioan Êuđê, linh mục",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-08-20",
+        "year":2026,
+        "name":"Thánh Bernarđô, viện phụ, tiến sĩ Hội Thánh",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-08-21",
+        "year":2026,
+        "name":"Thánh Piô X, Giáo hoàng",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-08-22",
+        "year":2026,
+        "name":"Đức Maria Nữ Vương",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-08-23",
+        "year":2026,
+        "name":"CHÚA NHẬT XXI THƯỜNG NIÊN. Thánh vịnh tuần I",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-08-24",
+        "year":2026,
+        "name":"Thánh Barthôlômêô, tông đồ",
+        "feast_type":"Lễ kính",
+        "liturgical_color":"Đỏ"
+    },
+    {
+        "date":"2026-08-25",
+        "year":2026,
+        "name":"Thánh Luy, vua nước Pháp và thánh Giuse Calasanz, linh mục",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-08-26",
+        "year":2026,
+        "name":"Thứ Tư trong tuần thứ Hai Mươi-Nhất Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-08-27",
+        "year":2026,
+        "name":"Thánh nữ Mônica",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-08-28",
+        "year":2026,
+        "name":"Thánh Augustinô, giám mục, tiến sĩ Hội Thánh",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-08-29",
+        "year":2026,
+        "name":"Thánh Gioan Tẩy Giả bị trảm quyết",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Đỏ"
+    },
+    {
+        "date":"2026-08-30",
+        "year":2026,
+        "name":"CHÚA NHẬT XXII THƯỜNG NIÊN. Thánh vịnh tuần II",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-08-31",
+        "year":2026,
+        "name":"Thứ Hai trong tuần thứ Hai Mươi-Hai Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-09-01",
+        "year":2026,
+        "name":"Thứ Ba trong tuần thứ Hai Mươi-Hai Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-09-02",
+        "year":2026,
+        "name":"Ngày Quốc khánh. Cầu cho Tổ quốc",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-09-03",
+        "year":2026,
+        "name":"Thánh Grêgôriô Cả, giáo hoàng, tiến sĩ Hội Thánh",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-09-04",
+        "year":2026,
+        "name":"Thứ sáu đầu tháng",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-09-05",
+        "year":2026,
+        "name":"Thứ bảy đầu tháng. Thánh Têrêsa Calcutta, nữ tu (Tr)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-09-06",
+        "year":2026,
+        "name":"CHÚA NHẬT XXIII THƯỜNG NIÊN. Thánh vịnh tuần III",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-09-07",
+        "year":2026,
+        "name":"Thứ Hai trong tuần thứ Hai Mươi-Ba Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-09-08",
+        "year":2026,
+        "name":"SINH NHẬT ĐỨC TRINH NỮ MARIA",
+        "feast_type":"Lễ kính",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-09-09",
+        "year":2026,
+        "name":"Thánh Phêrô Claver, linh mục",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-09-10",
+        "year":2026,
+        "name":"Thứ Năm trong tuần thứ Hai Mươi-Ba Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-09-11",
+        "year":2026,
+        "name":"Thứ Sáu trong tuần thứ Hai Mươi-Ba Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-09-12",
+        "year":2026,
+        "name":"Danh Thánh Đức Maria",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-09-13",
+        "year":2026,
+        "name":"CHÚA NHẬT XXIV THƯỜNG NIÊN. Thánh vịnh tuần IV",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-09-14",
+        "year":2026,
+        "name":"Suy tôn Thánh giá",
+        "feast_type":"Lễ kính",
+        "liturgical_color":"Đỏ"
+    },
+    {
+        "date":"2026-09-15",
+        "year":2026,
+        "name":"Đức Mẹ Sầu Bi",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-09-16",
+        "year":2026,
+        "name":"Thánh Cornêliô, giáo hoàng, tử đạo và thánh Cyprianô, giám mục, tử đạo",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Đỏ"
+    },
+    {
+        "date":"2026-09-17",
+        "year":2026,
+        "name":"Thánh Robertô Bellarminô, giám mục, tiến sĩ Hội Thánh. Thánh Hildegardis Bingensis, trinh nữ, tiến sĩ Hội Thánh. Thánh Emmanuel Nguyễn Văn Triệu, linh mục, tử đạo († 1798)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-09-18",
+        "year":2026,
+        "name":"Thứ Sáu trong tuần thứ Hai Mươi-Tư Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-09-19",
+        "year":2026,
+        "name":"Thánh Januariô, giám mục, tử đạo.",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-09-20",
+        "year":2026,
+        "name":"CHÚA NHẬT XXV THƯỜNG NIÊN. Thánh vịnh tuần I",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-09-21",
+        "year":2026,
+        "name":"Thánh Matthêô, Tông đồ, Tác giả sách Tin Mừng",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Đỏ"
+    },
+    {
+        "date":"2026-09-22",
+        "year":2026,
+        "name":"Thứ Ba trong tuần thứ Hai Mươi-Năm Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-09-23",
+        "year":2026,
+        "name":"Thánh Piô Pietrelcina, linh mục",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-09-24",
+        "year":2026,
+        "name":"Thứ Năm trong tuần thứ Hai Mươi-Năm Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-09-25",
+        "year":2026,
+        "name":"Ngày Trung thu. Cầu cho thiếu nhi.",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-09-26",
+        "year":2026,
+        "name":"Thánh Cosma và thánh Đamianô, tử đạo",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-09-27",
+        "year":2026,
+        "name":"CHÚA NHẬT XXVI THƯỜNG NIÊN. Thánh vịnh tuần II",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-09-28",
+        "year":2026,
+        "name":"Thánh Venceslaô , Tử đạo (Đ). Thánh Laurensô Ruiz và các bạn, Tử đạo (Đ)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-09-29",
+        "year":2026,
+        "name":"CÁC TỔNG LÃNH THIÊN THẦN MICHAEL, GABRIEL, RAPHAEL",
+        "feast_type":"Lễ kính",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-09-30",
+        "year":2026,
+        "name":"Thánh Giêrônimô, linh mục, tiến sĩ Hội Thánh",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-10-01",
+        "year":2026,
+        "name":"Thánh Tê-rê-xa Hài Đồng Giê-su, trinh nữ, tiến sĩ Hội Thánh",
+        "feast_type":"Lễ kính",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-10-02",
+        "year":2026,
+        "name":"Các thiên thần hộ thủ",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-10-03",
+        "year":2026,
+        "name":"Thứ bảy đầu tháng",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-10-04",
+        "year":2026,
+        "name":"CHÚA NHẬT XXVII THƯỜNG NIÊN. Thánh vịnh tuần III. Được kính trọng thể lễ Đức Mẹ Mân Côi (Tr)",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-10-05",
+        "year":2026,
+        "name":"Thánh Faustina Kowalska, trinh nữ (Tr)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-10-06",
+        "year":2026,
+        "name":"Thánh Brunô, linh mục (Tr)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-10-07",
+        "year":2026,
+        "name":"Lễ Đức Mẹ Mân Côi",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-10-08",
+        "year":2026,
+        "name":"Thứ Năm trong tuần thứ Hai Mươi-Bảy Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-10-09",
+        "year":2026,
+        "name":"Thánh Điônysiô, giám mục, và các bạn, tử đạo (Đ). Thánh Gioan Lêônarđô, linh mục (Tr)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-10-10",
+        "year":2026,
+        "name":"Thứ Bảy trong tuần thứ Hai Mươi-Bảy Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-10-11",
+        "year":2026,
+        "name":"CHÚA NHẬT XXVIII THƯỜNG NIÊN. Thánh vịnh tuần IV",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-10-12",
+        "year":2026,
+        "name":"Thứ Hai trong tuần thứ Hai Mươi-Tám Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-10-13",
+        "year":2026,
+        "name":"Thứ Ba trong tuần thứ Hai Mươi-Tám Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-10-14",
+        "year":2026,
+        "name":"Thánh Callistô I, giáo hoàng, tử đạo (Đ)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-10-15",
+        "year":2026,
+        "name":"Thánh Tê-rê-xa Giê-su, trinh nữ, tiến sĩ Hội Thánh",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-10-16",
+        "year":2026,
+        "name":"Thánh Hedviges, nữ tu (Tr). Thánh Margarita Alacoque, trinh nữ (Tr)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-10-17",
+        "year":2026,
+        "name":"Thánh I-nha-xi-ô thành An-ti-ô-khi-a, giám mục, tử đạo",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Đỏ"
+    },
+    {
+        "date":"2026-10-18",
+        "year":2026,
+        "name":"CHÚA NHẬT XXIX THƯỜNG NIÊN. Thánh vịnh tuần I. Chúa nhật truyền giáo",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Đỏ"
+    },
+    {
+        "date":"2026-10-19",
+        "year":2026,
+        "name":"Thánh Gioan Brêbeuf, linh mục, thánh Isaac Jôgues, linh mục, và các bạn, tử đạo (Đ), thánh Phaolô Thánh Giá, linh mục (Tr)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-10-20",
+        "year":2026,
+        "name":"Thứ Ba trong tuần thứ Hai Mươi-Chín Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-10-21",
+        "year":2026,
+        "name":"Thứ Tư trong tuần thứ Hai Mươi-Chín Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-10-22",
+        "year":2026,
+        "name":"Thánh Gioan Phaolô II, giáo hoàng (Tr)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-10-23",
+        "year":2026,
+        "name":"Thánh Gioan Capestranô, linh mục (Tr)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-10-24",
+        "year":2026,
+        "name":"Thánh Antôn Maria Claret, giám mục (Tr)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-10-25",
+        "year":2026,
+        "name":"CHÚA NHẬT XXX THƯỜNG NIÊN. Thánh vịnh tuần II",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-10-26",
+        "year":2026,
+        "name":"Thứ Hai trong tuần thứ Ba Mươi Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-10-27",
+        "year":2026,
+        "name":"Thứ Ba trong tuần thứ Ba Mươi Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-10-28",
+        "year":2026,
+        "name":"Thánh Si-mon và thánh Giu-đa, tông đồ",
+        "feast_type":"Lễ kính",
+        "liturgical_color":"Đỏ"
+    },
+    {
+        "date":"2026-10-29",
+        "year":2026,
+        "name":"Thứ Năm trong tuần thứ Ba Mươi Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-10-30",
+        "year":2026,
+        "name":"Thứ Sáu trong tuần thứ Ba Mươi Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-10-31",
+        "year":2026,
+        "name":"Thứ Bảy trong tuần thứ Ba Mươi Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-11-01",
+        "year":2026,
+        "name":"CHÚA NHẬT XXXI THƯỜNG NIÊN. CÁC THÁNH NAM NỮ.",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-11-02",
+        "year":2026,
+        "name":"Cầu Cho Các Tín Hữu Đã Qua Đời",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-11-03",
+        "year":2026,
+        "name":"Thánh Mác-ti-nô Po-ret, tu sĩ (Tr)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-11-04",
+        "year":2026,
+        "name":"Thánh Ca-rô-lô Bô-rô-mê-ô, giám mục",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-11-05",
+        "year":2026,
+        "name":"Thứ năm đầu tháng Thánh Đa-minh Đinh Đức Mậu, Linh mục (+1862), Tử đạo",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-11-06",
+        "year":2026,
+        "name":"Thứ sáu đầu tháng",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-11-07",
+        "year":2026,
+        "name":"Thứ bảy đầu tháng",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-11-08",
+        "year":2026,
+        "name":"CHÚA NHẬT XXXII THƯỜNG NIÊN. Thánh vịnh tuần IV",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-11-09",
+        "year":2026,
+        "name":"Cung hiến thánh đường La-tê-ra-nô",
+        "feast_type":"Lễ kính",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-11-10",
+        "year":2026,
+        "name":"Thánh Lê-ô Cả, giáo hoàng, tiến sĩ Hội Thánh",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-11-11",
+        "year":2026,
+        "name":"Thánh Mác-ti-nô thành Tua, giám mục",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-11-12",
+        "year":2026,
+        "name":"Thánh Giô-sa-phát, giám mục, tử đạo",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Đỏ"
+    },
+    {
+        "date":"2026-11-13",
+        "year":2026,
+        "name":"Thứ Sáu i trong tuần thứ Ba Mươi-Hai Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-11-14",
+        "year":2026,
+        "name":"Thứ Bảy i trong tuần thứ Ba Mươi-Hai Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-11-15",
+        "year":2026,
+        "name":"CHÚA NHẬT XXXIII THƯỜNG NIÊN. Thánh vịnh tuần I. Kính trọng thể Các Thánh Tử Đạo Việt Nam (Đ)",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-11-16",
+        "year":2026,
+        "name":"Thánh nữ Margarita Scotland (Tr). Thánh Gertruđê, trinh nữ (Tr)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-11-17",
+        "year":2026,
+        "name":"Thánh nữ Ê-li-sa-bet nước Hung-ga-ri",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-11-18",
+        "year":2026,
+        "name":"Cung hiến đền thờ Thánh Phê-rô và đền thờ Thánh Phao-lô ở Rôma (Tr)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-11-19",
+        "year":2026,
+        "name":"Thứ Năm trong tuần thứ Ba Mươi-Ba Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-11-20",
+        "year":2026,
+        "name":"Thứ Sáu trong tuần thứ Ba Mươi-Ba Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-11-21",
+        "year":2026,
+        "name":"Đức Mẹ dâng mình trong đền thờ",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-11-22",
+        "year":2026,
+        "name":"CHÚA NHẬT XXXIV THƯỜNG NIÊN. CHÚA GIÊ-SU KI-TÔ VUA VŨ TRỤ",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-11-23",
+        "year":2026,
+        "name":"Thánh vịnh tuần II. Thánh Clêmentê I, Giáo hoàng, Tử đạo (Đ). Thánh Côlumbanô, Viện phụ (Tr)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-11-24",
+        "year":2026,
+        "name":"CÁC THÁNH TỬ ĐẠO VIỆT NAM. Bổn mạng Hội Thánh Việt Nam",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-11-25",
+        "year":2026,
+        "name":"Thánh Ca-ta-ri-na A-lê-xan-ri-a, Trinh nữ, Tử đạo (Đ)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-11-26",
+        "year":2026,
+        "name":"Thứ Năm trong tuần thứ Ba Mươi-Tư Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-11-27",
+        "year":2026,
+        "name":"Thứ Sáu trong tuần thứ Ba Mươi-Tư Mùa Quanh Năm",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-11-28",
+        "year":2026,
+        "name":"Hết năm phụng vụ 2026",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Xanh"
+    },
+    {
+        "date":"2026-11-29",
+        "year":2026,
+        "name":"CHÚA NHẬT I MÙA VỌNG",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-11-30",
+        "year":2026,
+        "name":"Thánh Anrê Tông đồ",
+        "feast_type":"Lễ kính",
+        "liturgical_color":"Đỏ"
+    },
+    {
+        "date":"2026-12-01",
+        "year":2026,
+        "name":"Thứ Ba trong tuần thứ Nhất Mùa Vọng",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-12-02",
+        "year":2026,
+        "name":"Thứ Tư trong tuần thứ Nhất Mùa Vọng",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-12-03",
+        "year":2026,
+        "name":"Thứ năm đầu tháng. Thánh Phanxicô Xaviê, Linh mục. Bổn mạng các xứ truyền giáo",
+        "feast_type":"Lễ kính",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-12-04",
+        "year":2026,
+        "name":"Thứ sáu đầu tháng. Thánh Gioan Đamas, Linh mục, Tiến sĩ Hội Thánh (Tr)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-12-05",
+        "year":2026,
+        "name":"Thứ Bảy trong tuần thứ Nhất Mùa Vọng",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-12-06",
+        "year":2026,
+        "name":"Chúa nhật II Mùa Vọng",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-12-07",
+        "year":2026,
+        "name":"Thánh Ambrôsiô, Giám mục, Tiến sĩ Hội Thánh",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-12-08",
+        "year":2026,
+        "name":"Đức Maria vô nhiễm nguyên tội",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-12-09",
+        "year":2026,
+        "name":"Thứ Tư trong tuần thứ Hai Mùa Vọng",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-12-10",
+        "year":2026,
+        "name":"Thứ Năm trong tuần thứ Hai Mùa Vọng",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-12-11",
+        "year":2026,
+        "name":"(Tr) Thánh Đa-ma-xô I, Giáo hoàng",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-12-12",
+        "year":2026,
+        "name":"(Tr) Đức Trinh Nữ Ma-ri-a Goa-đa-lu-pê (Guadalupe)",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-12-13",
+        "year":2026,
+        "name":"CHÚA NHẬT III MÙA VỌNG",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-12-14",
+        "year":2026,
+        "name":"Thánh Gioan Thánh Giá, Linh mục, Tiến sĩ Hội Thánh",
+        "feast_type":"Lễ nhớ",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-12-15",
+        "year":2026,
+        "name":"Thứ Ba trong tuần thứ Ba Mùa Vọng",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-12-16",
+        "year":2026,
+        "name":"Thứ Tư trong tuần thứ Ba Mùa Vọng",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-12-17",
+        "year":2026,
+        "name":"17 tháng 12 Mùa Vọng",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-12-18",
+        "year":2026,
+        "name":"18 tháng 12 Mùa Vọng",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-12-19",
+        "year":2026,
+        "name":"19 tháng 12 Mùa Vọng",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-12-20",
+        "year":2026,
+        "name":"Chúa Nhật thứ Tư Mùa Vọng",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-12-21",
+        "year":2026,
+        "name":"21 tháng 12 Mùa Vọng",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-12-22",
+        "year":2026,
+        "name":"22 tháng 12 Mùa Vọng",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-12-23",
+        "year":2026,
+        "name":"23 tháng 12 Mùa Vọng",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-12-24",
+        "year":2026,
+        "name":"24 tháng 12 Mùa Vọng",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Tím"
+    },
+    {
+        "date":"2026-12-25",
+        "year":2026,
+        "name":"Chúa Giáng Sinh",
+        "feast_type":"Lễ trọng",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-12-26",
+        "year":2026,
+        "name":"Thánh Tê-pha-nô, tử đạo tiên khởi",
+        "feast_type":"Lễ kính",
+        "liturgical_color":"Đỏ"
+    },
+    {
+        "date":"2026-12-27",
+        "year":2026,
+        "name":"Thánh Gio-an, tông đồ, tác giả sách Tin Mừng",
+        "feast_type":"Lễ kính",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-12-28",
+        "year":2026,
+        "name":"Thánh Gia Thất: Chúa Giê-su, Đức Maria và thánh Giu-se",
+        "feast_type":"Lễ kính",
+        "liturgical_color":"Đỏ"
+    },
+    {
+        "date":"2026-12-29",
+        "year":2026,
+        "name":"Ngày thứ năm trong tuần Bát Nhật Lễ Giáng Sinh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    },
+    {
+        "date":"2026-12-30",
+        "year":2026,
+        "name":"Ngày thứ sáu trong tuần Bát Nhật Lễ Giáng Sinh",
+        "feast_type":"Ngày thường",
+        "liturgical_color":"Trắng"
+    }
+]
