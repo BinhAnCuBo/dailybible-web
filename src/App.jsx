@@ -44,8 +44,8 @@ function App() {
             </button>
           ) : (
             <div className="quote-detail fade-in">
-              <p className="content">"{quo?.content || "Hãy luôn tin tưởng vào sự dẫn dắt của Chúa."}"</p>
-              <p className="verse">({quo?.verse || "Lời Chúa"})</p>
+              <p className="content">"{quo?.content || "Hãy trao phó đường lối mình cho Chúa, và tin cậy nơi Ngài, Ngài sẽ ra tay."}"</p>
+              <p className="verse">({quo?.verse || "Thánh Vịnh 37:5"})</p>
               {quo?.explanation && (
                 <div className="explanation">
                   <p>{quo.explanation}</p>
