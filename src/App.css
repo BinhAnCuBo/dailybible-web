@@ -1,158 +1,167 @@
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=Playfair+Display:wght@600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=Playfair+Display:wght@600;700;900&display=swap');
 
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
+/* Reset cơ bản cho mọi trình duyệt */
+* { box-sizing: border-box; margin: 0; padding: 0; }
 
+/* 1. NỀN TỔNG: Phủ kín Full-screen, không gò bó tỉ lệ */
 .app-container {
-  min-height: 100vh;
-  /* Ốp bức ảnh bạn vừa tải làm hình nền phủ kín màn hình */
-  background: url('./assets/backroundphone.jpg') center/cover fixed no-repeat;
+  width: 100vw; 
+  height: 100vh;
+  background-color: #000;
+  
+  /* ĐẢM BẢO FILE ẢNH TRẮNG ĐEN CỦA AN TÊN LÀ bg_minimal.png VÀ NẰM TRONG ASSETS */
+  background: url('./assets/bg_minimal.png') no-repeat;
+  
+  /* CHỐT: Ảnh luôn phủ kín, không méo, neo giữ hình người ở đáy ảnh */
+  background-size: cover;
+  background-position: center bottom;
+  
   display: flex; 
-  align-items: center; 
-  justify-content: center;
-  font-family: 'Lora', serif;
-  padding: 20px;
+  justify-content: center; 
+  align-items: flex-start; /* Xếp hàng từ trên đỉnh xuống */
+  
+  overflow-x: hidden; /* Cắt bỏ cuộn ngang thừa */
 }
 
+/* 2. THÙNG MẸ (glass-card): Chứa toàn bộ nội dung, tự dãn cao */
 .glass-card {
-  /* Xóa bỏ hiệu ứng thẻ kính mờ để chữ in trực tiếp lên cuộn giấy da */
-  background: transparent; 
-  border: none;
-  box-shadow: none;
+  width: 90%;
+  max-width: 500px; /* Giới hạn để chữ không loãng trên máy tính */
+  margin-top: 6vh; /* Khoảng cách từ nóc ĐT xuống khối chữ đầu tiên */
+  
+  display: flex; 
+  flex-direction: column; 
+  align-items: center;
+  
+  /* Lề dưới để nút bấm không chạm mép ĐT */
+  padding-bottom: 20vh; 
+}
+
+/* 3. WELCOME SCREEN (Thông tin Phụng vụ - Luôn hiện) */
+.welcome-screen {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   text-align: center;
-  max-width: 480px; 
-  width: 100%; 
-  /* Đẩy toàn bộ khối chữ xích xuống dưới khoảng 35% màn hình để lọt vào phần giấy trống */
-  margin-top: 35vh; 
-  padding: 10px;
 }
 
-/* Đổi toàn bộ chữ sang tông màu Nâu cổ điển (giống màu mực in) */
-.today-text { 
-  color: #5c4033; 
-  font-size: 0.85rem; 
-  font-weight: bold; 
-  text-transform: uppercase; 
-  letter-spacing: 2px; 
-  margin-bottom: 5px; 
-  font-family: 'Segoe UI', sans-serif;
+/* 4. CHỮA LỖI DÍNH CHỮ VÀ TIGHT SPACING (Khung gần nhau hơn) */
+.info-box {
+  width: 100%; /* Ép chiều ngang luôn bằng nhau */
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  
+  /* --- TIGHT SPACING: Giảm khoảng trống giữa các ô --- */
+  padding: 8px 10px;    /* Giảm padding dọc xuống còn 8px */
+  margin-bottom: 5px;   /* Giảm khoảng cách trống giữa các ô xuống còn 5px */
+  
+  border: 1px dashed rgba(255, 255, 255, 0.15); /* Xóa dòng này nếu muốn ẩn viền */
+  border-radius: 8px;
 }
 
-.feast-name { 
-  font-family: 'Playfair Display', serif; 
-  color: #3e2723; 
-  margin: 10px 0 20px 0; 
-  font-size: 1.6rem; 
-  line-height: 1.3; 
-  font-weight: 700;
+/* Tinh chỉnh riêng font chữ Tên Lễ */
+.feast-name {
+  font-family: 'Playfair Display', serif; color: #fff;
+  font-size: clamp(1.2rem, 5vw, 1.6rem); /* Tự nhỏ lại nếu tên lễ dài */
+  text-transform: uppercase;
+  
+  /* CHỮA LỖI DÍNH CHỮ: Tăng khoảng cách dòng lên 1.4 */
+  line-height: 1.4; 
+  letter-spacing: 1px;
+  text-shadow: 0 2px 10px rgba(0,0,0,0.6); /* Đổ bóng để nổi bật trên mây */
+  margin: 0; /* Xóa margin thừa */
 }
 
-.badges { display: flex; justify-content: center; gap: 10px; margin-bottom: 25px; }
+/* 5. THANH NGANG THÁNH GIÁ: T Tight Spacing */
+.ornament-wrapper {
+  display: flex; align-items: center; width: 100%;
+  /* margin: [trên] [trái/phải] [dưới] [trái/phải] */
+  margin: 2px 0 10px 0; /* Giảm margin trên xuống còn 2px và lề dưới còn 10px */
+  gap: 15px;
+}
+.ornament-line {
+  flex: 1; height: 1px;
+  background: linear-gradient(to right, transparent, rgba(255,255,255,0.6), transparent);
+}
+.cross-icon { color: #fff; font-size: 1.2rem; }
 
-.badge-type { 
-  background: rgba(0, 0, 0, 0.05); 
-  padding: 5px 15px; 
-  border-radius: 20px; 
-  font-size: 0.8rem; 
-  color: #5c4033; 
-  border: 1px solid #8d6e63; 
+/* 6. STYLE CHỮ PHỤ */
+.classic-date { font-family: 'Lora', serif; color: rgba(255,255,255,0.7); font-size: 0.85rem; letter-spacing: 1.5px; }
+.sub-info-row { font-family: 'Lora', serif; color: #fff; font-size: 1rem; display: flex; gap: 15px; }
+.separator { color: rgba(255,255,255,0.3); }
+
+/* 7. NÚT BẤM CHỐT Ở MẶT ĐẤT ĐEN */
+.button-area {
+  position: fixed; /* Chốt nút bấm cố định ở đáy màn hình */
+  bottom: 8%; /* Luôn cách đáy màn hình 8% bất kể máy dài hay ngắn */
+  width: 100%; display: flex; justify-content: center;
+  transition: opacity 0.5s ease; /* Hiệu ứng mờ đi mượt mà */
 }
 
-.badge-color { 
-  padding: 5px 15px; 
-  border-radius: 20px; 
-  font-size: 0.8rem; 
-  font-weight: 600; 
-  border: 1px solid #8d6e63; 
-  color: #fff; 
-  text-shadow: 0 1px 2px rgba(0,0,0,0.5);
+/* Khi Lời Chúa hiện ra, nút này mờ đi */
+.button-area-fade-out {
+  opacity: 0.3; /* Mờ đi 70% */
+  pointer-events: none; /* Vô hiệu hóa nút bấm */
 }
 
-.badge-color.Trắng { background: #f8fafc; color: #3e2723; text-shadow: none; }
-.badge-color.Đỏ { background: #b91c1c; }
-.badge-color.Xanh { background: #15803d; }
-.badge-color.Tím { background: #6b21a8; }
-.badge-color.Hồng { background: #be185d; }
-
-.btn-main { 
-  background: #8d6e63; 
-  color: #fff; 
-  border: none; 
-  padding: 12px 30px; 
-  border-radius: 30px; 
-  font-size: 1.05rem; 
-  font-family: 'Lora', serif; 
-  font-style: italic; 
-  cursor: pointer; 
-  transition: all 0.3s ease; 
-  box-shadow: 0 4px 10px rgba(141, 110, 99, 0.3); 
+.classic-btn {
+  background: rgba(0,0,0,0.3); /* Nền mờ để không che hình */
+  backdrop-filter: blur(5px);   /* Hiệu ứng kính mờ cho nút */
+  border: 1.2px solid #fff;
+  border-radius: 40px; padding: 12px 35px; color: #fff;
+  font-family: 'Lora', serif; cursor: pointer; transition: 0.3s;
 }
 
-.btn-main:hover { 
-  background: #5c4033; 
-  transform: translateY(-2px); 
+.classic-btn:hover { background: rgba(255,255,255,0.15); }
+
+/* Nút bấm mờ dự phòng */
+.btn-faded {
+  border-color: rgba(255,255,255,0.4);
+  color: rgba(255,255,255,0.4);
 }
 
-.quote-detail { display: flex; flex-direction: column; align-items: center; }
-
-.content { 
-  font-style: italic; 
-  font-size: 1.25rem; 
-  color: #3e2723; 
-  line-height: 1.6; 
-  margin-top: 5px; 
-  font-weight: 600;
+/* 8. CHI TIẾT LỜI CHÚA (MÀN HÌNH GIẢI THÍCH) */
+/* Lớp bọc ngoài để nắn tọa độ */
+.quote-section-wrapper {
+  width: 100%;
+  margin-top: 15px; /* Khoảng cách giữa thông tin Phụng vụ và Lời Chúa */
 }
 
-.verse { 
-  font-weight: bold; 
-  color: #8d6e63; 
-  margin: 15px 0 20px 0; 
-  font-family: 'Playfair Display', serif; 
-  font-size: 1.05rem; 
+.quote-detail-box {
+  width: 100%; padding: 25px;
+  background: rgba(0,0,0,0.7); /* Nền đen mờ nhẹ nhàng */
+  border-radius: 12px; border: 1px solid rgba(255,255,255,0.2);
+  backdrop-filter: blur(8px); text-align: center;
+  display: flex; flex-direction: column; align-items: center;
 }
 
-.explanation { 
-  background: rgba(255, 255, 255, 0.4); 
-  padding: 15px; 
-  border-radius: 8px; 
-  border-left: 3px solid #8d6e63; 
-  text-align: left; 
-  font-size: 0.9rem; 
-  color: #4e342e; 
-  line-height: 1.5; 
-  width: 100%; 
+.quote-content { font-family: 'Lora', serif; font-style: italic; color: #fff; font-size: 1.25rem; line-height: 1.6; margin-bottom: 10px; }
+.quote-verse { font-family: 'Playfair Display', serif; color: #fff; font-weight: bold; margin-bottom: 20px; }
+
+/* Phần giải thích */
+.explanation-section { margin-top: 10px; width: 100%; text-align: left; }
+.small-divider { width: 30px; height: 1.5px; background: rgba(255,255,255,0.5); margin: 0 auto 15px auto; }
+.explanation-text { font-family: 'Lora', serif; font-size: 0.95rem; line-height: 1.6; color: rgba(255, 255, 255, 0.85); }
+
+/* Link gấp lại mờ ảo */
+.btn-close-link { margin-top: 20px; background: transparent; border: none; color: rgba(255,255,255,0.4); cursor: pointer; letter-spacing: 2px; font-size: 0.8rem; font-family: 'Lora', serif; }
+.btn-close-link:hover { color: #fff; text-decoration: underline; }
+
+/* =========================================================
+   HIỆU ỨNG GENTLES FADE IN (XUẤT HIỆN NHẸ NHÀNG)
+   ========================================================= */
+.fade-in-gentle {
+  /* opacity: 0 -> 1 mượt mà trong 0.8 giây */
+  animation: fadeInGentle 0.8s ease-out forwards;
 }
 
-.btn-sub { 
-  margin-top: 25px; 
-  background: transparent; 
-  border: 1px solid #8d6e63; 
-  padding: 8px 20px; 
-  border-radius: 20px; 
-  cursor: pointer; 
-  color: #5c4033; 
-  font-family: 'Lora', serif; 
-  transition: all 0.2s; 
-}
-
-.btn-sub:hover { background: #8d6e63; color: #fff; }
-
-.fade-in { animation: fadeIn 0.6s ease-out; }
-
-@keyframes fadeIn { 
-  from { opacity: 0; transform: translateY(10px); } 
-  to { opacity: 1; transform: translateY(0); } 
-}
-
-.footer { display: none; } /* Ẩn dòng chữ bản quyền đi để cuộn giấy nhìn sạch sẽ, tự nhiên nhất */
-
-/* RESPONSIVE CHO ĐIỆN THOẠI */
-@media (max-width: 768px) {
-  .glass-card { margin-top: 38vh; padding: 0 15px; } /* Đẩy xuống sâu hơn một chút trên mobile */
-  .feast-name { font-size: 1.4rem; }
-  .content { font-size: 1.15rem; }
+@keyframes fadeInGentle {
+  from {
+    opacity: 0;
+    transform: translateY(10px); /* Xuất hiện từ dưới lên một chút */
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
