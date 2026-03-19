@@ -61,7 +61,7 @@
 
 /* Tinh chỉnh riêng font chữ Tên Lễ */
 .feast-name {
-  font-family: 'Playfair Display', serif; color: #fff;
+  font-family: 'Playfair Display', serif; color: #37282d;
   font-size: clamp(1.2rem, 5vw, 1.6rem); /* Tự nhỏ lại nếu tên lễ dài */
   text-transform: uppercase;
   
@@ -81,13 +81,13 @@
 }
 .ornament-line {
   flex: 1; height: 1px;
-  background: linear-gradient(to right, transparent, rgba(255,255,255,0.6), transparent);
+  background: linear-gradient(to right, transparent, rgba(112, 24, 24, 0.6), transparent);
 }
-.cross-icon { color: #fff; font-size: 1.2rem; }
+.cross-icon { color: rgba(112, 24, 24, 0.6); font-size: 3rem; }
 
 /* 6. STYLE CHỮ PHỤ */
-.classic-date { font-family: 'Lora', serif; color: rgba(255,255,255,0.7); font-size: 0.85rem; letter-spacing: 1.5px; }
-.sub-info-row { font-family: 'Lora', serif; color: #fff; font-size: 1rem; display: flex; gap: 15px; }
+.classic-date { font-family: 'Lora', serif; color: rgba(13, 8, 8, 0.7); font-size: 1rem; letter-spacing: 1.5px; }
+.sub-info-row { font-family: 'Lora', serif; color: #150a0a; font-size: 1rem; display: flex; gap: 15px; }
 .separator { color: rgba(255,255,255,0.3); }
 
 /* 7. NÚT BẤM CHỐT Ở MẶT ĐẤT ĐEN */
