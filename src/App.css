@@ -10,7 +10,7 @@
   background-color: #000;
   
   /* ĐẢM BẢO FILE ẢNH TRẮNG ĐEN CỦA AN TÊN LÀ bg_minimal.png VÀ NẰM TRONG ASSETS */
-  background: url('./assets/bg_minimal.png') no-repeat;
+  background: url('./assets/ảnh background.jpg') no-repeat;
   
   /* CHỐT: Ảnh luôn phủ kín, không méo, neo giữ hình người ở đáy ảnh */
   background-size: cover;
