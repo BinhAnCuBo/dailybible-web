@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import confetti from 'canvas-confetti';
 import liturgicalData from './data/bible_data.json';
 import quotesData from './data/daily_quotes.json';
 import './App.css';
@@ -6,6 +7,38 @@ import './App.css';
 function App() {
   // State điều khiển việc hiển thị Lời Chúa (Mặc định là FALSE = không hiện)
   const [showQuote, setShowQuote] = useState(false);
+  
+  // Hàm xử lý khi bấm nút "Nhận lời Chúa"
+  const handleGetQuoteClick = () => {
+    setShowQuote(true);
+    
+    // Tạo hình trái tim bằng SVG path cho hiệu ứng confetti
+    const scalar = 2;
+    const heart = confetti.shapeFromPath({ 
+      path: 'M167 72c19,-38 37,-56 75,-56 42,0 76,33 76,75 0,76 -76,151 -151,227 -76,-76 -151,-151 -151,-227 0,-42 33,-75 75,-75 38,0 57,18 76,56z', 
+      matrix: [0.0333333 * scalar, 0, 0, 0.0333333 * scalar, -5.566666 * scalar, -5.566666 * scalar] 
+    });
+
+    // Bắn đợt 1: Trộn lẫn pháo giấy và trái tim, tung lên cao
+    confetti({
+      particleCount: 150,
+      spread: 120,
+      origin: { y: 0.9 }, // Vị trí bắn ra từ dưới cùng màn hình
+      shapes: [heart, 'circle', 'square'],
+      colors: ['#ff69b4', '#ff1493', '#ffd700', '#ff0000', '#ffffff', '#ff85a1']
+    });
+    
+    // Bắn đợt 2: Tập trung chỉ bắn tim đỏ sau 0.25 giây để tạo hiệu ứng bùm
+    setTimeout(() => {
+      confetti({
+        particleCount: 80,
+        spread: 90,
+        origin: { y: 0.9 },
+        shapes: [heart],
+        colors: ['#ff0a54', '#ff477e', '#ff7096']
+      });
+    }, 250);
+  };
   
   // 1. TRUY XUẤT DỮ LIỆU: Tìm thông tin theo ngày hiện tại
   const today = new Date().toLocaleDateString('en-CA'); 
@@ -98,7 +131,7 @@ function App() {
         */}
         <div className={`button-area ${showQuote ? 'button-area-fade-out' : ''}`}>
           {!showQuote ? (
-            <button className="classic-btn" onClick={() => setShowQuote(true)}>
+            <button className="classic-btn" onClick={handleGetQuoteClick}>
               Nhận lời Chúa hôm nay
             </button>
           ) : (
