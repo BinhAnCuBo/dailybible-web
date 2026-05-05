@@ -165,3 +165,30 @@
     transform: translateY(0);
   }
 }
+
+/* =========================================================
+   HIỆU ỨNG CHÚA TẶNG QUÀ
+   ========================================================= */
+.gift-animation-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-bottom: -15px; /* Để ảnh đè lên hộp Lời Chúa một chút cho đẹp */
+  position: relative;
+  z-index: 10;
+}
+
+.jesus-gift-img {
+  width: 160px;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.5);
+  border: 3px solid rgba(255, 255, 255, 0.8);
+  /* Hiệu ứng nảy lên (bounce) */
+  animation: bounceInGift 1.2s cubic-bezier(0.68, -0.55, 0.265, 1.55) forwards;
+  transform-origin: bottom center;
+}
+
+@keyframes bounceInGift {
+  0% { transform: scale(0) translateY(40px) rotate(-10deg); opacity: 0; }
+  50% { opacity: 1; transform: scale(1.1) translateY(-10px) rotate(5deg); }
+  100% { transform: scale(1) translateY(0) rotate(0deg); opacity: 1; }
+}

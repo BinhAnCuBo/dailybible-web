@@ -65,6 +65,11 @@ function App() {
         */}
         {showQuote && (
           <div className="quote-section-wrapper fade-in-gentle">
+            {/* ANIMATION CHÚA TẶNG QUÀ */}
+            <div className="gift-animation-wrapper">
+               <img src="/jesus_gift.jpg" alt="Chúa tặng quà" className="jesus-gift-img" />
+            </div>
+
             <div className="quote-detail-box">
               {/* Câu Lời Chúa */}
               <p className="quote-content">"{quo?.content}"</p>
