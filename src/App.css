@@ -52,15 +52,13 @@
   display: flex; flex-direction: column; align-items: center; justify-content: center;
   
   /* --- TIGHT SPACING: Giảm khoảng trống giữa các ô --- */
-  padding: 12px 15px;    
-  margin-bottom: 8px;   
+  padding: 8px 15px;    
+  margin-bottom: 5px;   
   
-  /* Tạo nền kính mờ nhẹ để chữ nổi lên rõ ràng nhưng không bị cứng */
-  background: rgba(0, 0, 0, 0.25);
-  backdrop-filter: blur(6px);
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  border-radius: 16px;
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+  /* Bỏ nền mờ để nhìn rõ hoàn toàn background gốc theo ý người dùng */
+  background: transparent;
+  border: none;
+  box-shadow: none;
 }
 
 /* Tinh chỉnh riêng font chữ Tên Lễ */
@@ -74,7 +72,7 @@
   /* CHỮA LỖI DÍNH CHỮ: Tăng khoảng cách dòng lên 1.4 */
   line-height: 1.4; 
   letter-spacing: 1px;
-  text-shadow: 0 3px 12px rgba(0, 0, 0, 0.8); /* Bóng đen đậm giúp chữ nổi bật hoàn toàn */
+  text-shadow: 0 4px 15px rgba(0, 0, 0, 1), 0 0 5px rgba(0, 0, 0, 0.8); /* Tăng bóng đen lên thật đậm để bù lại phần nền mờ đã xóa */
   margin: 0; /* Xóa margin thừa */
 }
 
@@ -92,8 +90,8 @@
 .cross-icon { color: rgba(255, 255, 255, 0.6); font-size: 3rem; }
 
 /* 6. STYLE CHỮ PHỤ */
-.classic-date { font-family: 'Nunito', sans-serif; font-weight: 800; color: #ffeb99; font-size: 1.1rem; letter-spacing: 1.5px; text-shadow: 0 2px 6px rgba(0,0,0,0.8); }
-.sub-info-row { font-family: 'Nunito', sans-serif; font-weight: 700; color: #ffffff; font-size: 1.1rem; display: flex; gap: 15px; text-shadow: 0 2px 6px rgba(0,0,0,0.8); }
+.classic-date { font-family: 'Nunito', sans-serif; font-weight: 800; color: #ffeb99; font-size: 1.1rem; letter-spacing: 1.5px; text-shadow: 0 3px 8px rgba(0,0,0,1), 0 0 3px rgba(0,0,0,0.6); }
+.sub-info-row { font-family: 'Nunito', sans-serif; font-weight: 700; color: #ffffff; font-size: 1.1rem; display: flex; gap: 15px; text-shadow: 0 3px 8px rgba(0,0,0,1), 0 0 3px rgba(0,0,0,0.6); }
 .separator { color: rgba(255,255,255,0.5); }
 
 /* 7. NÚT BẤM CHỐT Ở MẶT ĐẤT ĐEN */
