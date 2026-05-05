@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=Playfair+Display:wght@600;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=Nunito:wght@400;600;700;800&family=Playfair+Display:wght@600;700;900&display=swap');
 
 /* Reset cơ bản cho mọi trình duyệt */
 * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -52,23 +52,29 @@
   display: flex; flex-direction: column; align-items: center; justify-content: center;
   
   /* --- TIGHT SPACING: Giảm khoảng trống giữa các ô --- */
-  padding: 8px 10px;    /* Giảm padding dọc xuống còn 8px */
-  margin-bottom: 5px;   /* Giảm khoảng cách trống giữa các ô xuống còn 5px */
+  padding: 12px 15px;    
+  margin-bottom: 8px;   
   
-  border: 1px dashed rgba(255, 255, 255, 0.15); /* Xóa dòng này nếu muốn ẩn viền */
-  border-radius: 8px;
+  /* Tạo nền kính mờ nhẹ để chữ nổi lên rõ ràng nhưng không bị cứng */
+  background: rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(6px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 16px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
 }
 
 /* Tinh chỉnh riêng font chữ Tên Lễ */
 .feast-name {
-  font-family: 'Playfair Display', serif; color: #ffffff;
-  font-size: clamp(1.2rem, 5vw, 1.6rem); /* Tự nhỏ lại nếu tên lễ dài */
+  font-family: 'Nunito', sans-serif; 
+  font-weight: 800;
+  color: #ffffff;
+  font-size: clamp(1.3rem, 5vw, 1.8rem); /* Chữ to rõ ràng hơn */
   text-transform: uppercase;
   
   /* CHỮA LỖI DÍNH CHỮ: Tăng khoảng cách dòng lên 1.4 */
   line-height: 1.4; 
   letter-spacing: 1px;
-  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.6); /* Đổ bóng để nổi bật trên mây */
+  text-shadow: 0 3px 12px rgba(0, 0, 0, 0.8); /* Bóng đen đậm giúp chữ nổi bật hoàn toàn */
   margin: 0; /* Xóa margin thừa */
 }
 
@@ -86,9 +92,9 @@
 .cross-icon { color: rgba(255, 255, 255, 0.6); font-size: 3rem; }
 
 /* 6. STYLE CHỮ PHỤ */
-.classic-date { font-family: 'Lora', serif; color: rgba(255, 255, 255, 0.7); font-size: 1rem; letter-spacing: 1.5px; }
-.sub-info-row { font-family: 'Lora', serif; color: #ffffff; font-size: 1rem; display: flex; gap: 15px; }
-.separator { color: rgba(255,255,255,0.3); }
+.classic-date { font-family: 'Nunito', sans-serif; font-weight: 800; color: #ffeb99; font-size: 1.1rem; letter-spacing: 1.5px; text-shadow: 0 2px 6px rgba(0,0,0,0.8); }
+.sub-info-row { font-family: 'Nunito', sans-serif; font-weight: 700; color: #ffffff; font-size: 1.1rem; display: flex; gap: 15px; text-shadow: 0 2px 6px rgba(0,0,0,0.8); }
+.separator { color: rgba(255,255,255,0.5); }
 
 /* 7. NÚT BẤM CHỐT Ở MẶT ĐẤT ĐEN */
 .button-area {
@@ -105,14 +111,25 @@
 }
 
 .classic-btn {
-  background: rgba(0,0,0,0.3); /* Nền mờ để không che hình */
-  backdrop-filter: blur(5px);   /* Hiệu ứng kính mờ cho nút */
-  border: 1.2px solid #fff;
-  border-radius: 40px; padding: 12px 35px; color: #fff;
-  font-family: 'Lora', serif; cursor: pointer; transition: 0.3s;
+  background: linear-gradient(135deg, rgba(255, 154, 68, 0.85), rgba(252, 96, 118, 0.85)); /* Màu cam hồng vui tươi */
+  backdrop-filter: blur(8px);   
+  border: 2px solid rgba(255, 255, 255, 0.6);
+  border-radius: 50px; 
+  padding: 14px 35px; 
+  color: #fff;
+  font-family: 'Nunito', sans-serif; 
+  font-weight: 800;
+  font-size: 1.1rem;
+  cursor: pointer; 
+  transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55); /* Hiệu ứng nảy mượt mà */
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
 }
 
-.classic-btn:hover { background: rgba(255,255,255,0.15); }
+.classic-btn:hover { 
+  transform: translateY(-5px) scale(1.05);
+  background: linear-gradient(135deg, rgba(255, 154, 68, 1), rgba(252, 96, 118, 1));
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.4);
+}
 
 /* Nút bấm mờ dự phòng */
 .btn-faded {
